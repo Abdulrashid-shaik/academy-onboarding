@@ -15,3 +15,10 @@ Tilli Academy Onboarding
 - Name: Rama Murari Reddy
 - Github ID: murari123-byte
 - Github Email: avatalaramamurarireddy@gmail.com
+
+
+- Name: Shaik Abdulrashid
+- Github ID: Abdulrashid-shaik
+- Github Email: shaik.rashid005@gmail.com
+
+
