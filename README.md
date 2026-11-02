@@ -22,3 +22,6 @@ Tilli Academy Onboarding
 - Github Email: shaik.rashid005@gmail.com
 
 
+- Name: Govardhan Naidu Palla
+- Github ID: vardhanpalla
+- Github Email: vardhanpalla916@gmail.com
